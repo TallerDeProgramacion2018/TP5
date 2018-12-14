@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ01", "EJ01\EJ01.csproj", "{747E67B5-205A-407E-B2E1-B60E0D90A94D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJ02", "EJ02\EJ02.csproj", "{59EE5001-4EAE-40F8-8FCD-E580E9C4E512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{747E67B5-205A-407E-B2E1-B60E0D90A94D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747E67B5-205A-407E-B2E1-B60E0D90A94D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747E67B5-205A-407E-B2E1-B60E0D90A94D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747E67B5-205A-407E-B2E1-B60E0D90A94D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59EE5001-4EAE-40F8-8FCD-E580E9C4E512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59EE5001-4EAE-40F8-8FCD-E580E9C4E512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59EE5001-4EAE-40F8-8FCD-E580E9C4E512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59EE5001-4EAE-40F8-8FCD-E580E9C4E512}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC94F12F-57DE-49D6-83C8-8132DC95CC73}
+	EndGlobalSection
+EndGlobal
