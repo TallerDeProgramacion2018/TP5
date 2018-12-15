@@ -12,7 +12,7 @@ namespace EJ01
         static void Main(string[] args)
         {
 
-            using (var db = new AgendaContext())
+            using (AgendaContext db = new AgendaContext())
             {
                 Persona mPersona = new Persona()
                 {
@@ -29,7 +29,6 @@ namespace EJ01
                         }
                     }
                 };
-
 
 
                 db.Personas.Add(mPersona);
